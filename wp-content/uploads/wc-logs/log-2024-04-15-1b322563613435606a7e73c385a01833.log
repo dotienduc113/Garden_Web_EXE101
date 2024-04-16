@@ -1,2 +1,0 @@
-2024-04-15T07:23:08+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count was called but no order types were registered: it may have been called too early.
-2024-04-15T09:25:16+00:00 INFO Payment gateway enabled: "Cash on delivery"
